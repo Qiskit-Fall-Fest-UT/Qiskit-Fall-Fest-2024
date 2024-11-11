@@ -29,7 +29,9 @@ https://airtable.com/appkU8W0NtENifBxX/shrv2nz4kGxpCAsOp
 ### 数学・pythonの事前学習について
 量子情報技術を基礎から学ぶにあたって、また量子コンピュータによる計算を実践していただくために、線形代数の基本およびpythonによるプログラミングのある程度の事前学習をお願いいたします。
 学習のための以下の教材をぜひご活用ください！
+
 行列入門：
 https://www.mext.go.jp/content/20230828-mxt-kyoiku01_000250597_1.pdf
+
 python入門：
 https://sites.google.com/a.ipsj.or.jp/mooc/list/C3-1
